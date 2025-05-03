@@ -4,6 +4,8 @@ Validate whether a UK driving licence input string meets the DVLA's official iss
 
 A simple JavaScript and TypeScript utility for validating UK DVLA driving licence numbers using a strict regular expression.
 
+Laern more about the [Driver Codes](https://driver.codes) app, used by tens of thousands of UK drivers.
+
 ---
 
 ## 📦 Features
