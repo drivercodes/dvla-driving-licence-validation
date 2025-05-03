@@ -19,8 +19,8 @@ A simple JavaScript and TypeScript utility for validating UK DVLA driving licenc
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/dvla-licence-validation.git
-cd dvla-licence-validation
+git clone https://github.com/drivercodes/dvla-driving-licence-validation.git
+cd dvla-driving-licence-validation
 npm install
 ```
 
