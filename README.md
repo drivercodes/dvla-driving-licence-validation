@@ -1,2 +1,1 @@
-# dvla-driving-licence-validation
-Validate whether a UK driving licence input string meets the DVLA's official issuance format.
+See previous message — user provided preferred text and I formatted it accordingly.

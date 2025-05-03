@@ -1,0 +1,23 @@
+{
+  "name": "dvla-licence-validator",
+  "version": "1.0.0",
+  "description": "A simple utility to validate UK DVLA driving licence numbers using regex.",
+  "type": "module",
+  "main": "js/validator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "DVLA",
+    "UK",
+    "driving",
+    "licence",
+    "regex",
+    "validator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
